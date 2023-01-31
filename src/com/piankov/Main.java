@@ -1,8 +1,9 @@
 package com.piankov;
 
-public class Main {
+import com.piankov.problems.LC0997;
 
+public class Main {
     public static void main(String[] args) {
-	// write your code here
+        new LC0997().test();
     }
 }
